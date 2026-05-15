@@ -50,9 +50,8 @@ NewsMania/
 ├── src/
 │   ├── components/
 │   ├── pages/
-│   ├── styles/
 │   ├── App.js
-│   └── index.js
+│   └── main.js
 │
 ├── package.json
 ├── README.md
